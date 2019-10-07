@@ -1,0 +1,11 @@
+[package]
+name = "fan_controller_carboxyl"
+version = "0.1.0"
+authors = ["g2_xpf <nameko.jack@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+carboxyl = "0.2.1"
+ansi-escapes = "0.1.0"
